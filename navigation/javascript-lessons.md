@@ -9,6 +9,8 @@ In groups of 2-4, we each created a lesson about a JavaScript topic to teach to 
 
 Strings: [Lesson](https://dragon-rg.github.io/portfolio/js/strings) [hw](https://dragon-rg.github.io/portfolio/js/strings/hw)
 
+Variables: [Lesson](https://dragon-rg.github.io/portfolio/js/variables)
+
 Mathematical Expressions: [Lesson + hw](https://dragon-rg.github.io/portfolio/js/math)
 
 Booleans: [Lesson + hw](https://dragon-rg.github.io/portfolio/js/booleans)
