@@ -38,9 +38,19 @@ Hi! My name is Rigved Reddy Gaddam
             Snake Game
         </div>
     </a>
-    <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/natm" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle
+            Night at The Museum blog
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/js" style="text-decoration: none;">
+        <div style="background-color: #45b2dd; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            JavaScript Lessons
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/accomplishments" style="text-decoration: none;">
+        <div style="background-color: #da26dd; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Key Accomplishments
         </div>
     </a>
 </div>
