@@ -12,3 +12,14 @@ In the photography class, I saw a variety of high-quality photos that were taken
 
 One thing I noticed among the projects of the various CS classes was that they all stored user data in some way shape or form. Whether displaying responses to polls or using the user's input in another challenge, the user's data was being stored. When I asked them how they did this, they told me that they used a python backend called flask to store the data. I found this very interesting and it made me want to learn more about how to use flask and similar concepts in my own projects in the future.
 
+## What I presnted at N@TM
+As a class we  developed a murder-mystery style game, with each table-group developing a level. Unfortunetly, due to improper planning, overall group-cohesion, and time constraints we were unable to create a fully functional game. However, we were able to present the basic structure and design of each level. 
+
+When presenting, I mentioned the struggles that we faced, but I also highlighted the valuble learning experience that we had nonetheless; Sure, our murder mystery game just involves a character walking around, but I still learned how to display the sprites and the background, as well as displaying interactive dialogue between the main character and npcs in the game. One of my team members even added background music, and while it didn't work 100% of the time it was still pretty cool. 
+
+I also presented on the computer science knowledge we gained from the trimester as a whole - from initially understanding basic Github and WSL functionality to eventually completing challenges and creating blogs and Javascript lessons.
+
+Overall, I had a fun time presenting at n@tm to my fellow students and to the adults who came to visit. I felt like I accurately displayed everything we learned and did this past trimester.
+
+
+Here are some pictures from n@tm!
