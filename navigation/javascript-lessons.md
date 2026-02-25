@@ -15,7 +15,7 @@ Booleans: [Lesson + hw](https://dragon-rg.github.io/portfolio/js/booleans)
 
 Arrays: [Lesson + hw](https://dragon-rg.github.io/portfolio/js/arrays)
 
-Iterations: [Lesson](https://dragon-rg.github.io/portfolio/js/iterations) [hw](https://dragon-rg.github.io/portfolio/js/iterations/hw)
+Iterations: [Lesson](https://dragon-rg.github.io/portfolio/js/iterations) [hw](https://dragon-rg.github.io/portfolio/js/iterations/homework)
 
 Conditionals + Nested Conditionals: [Lesson + hw](https://dragon-rg.github.io/portfolio/js/nested-conditionals)
 
