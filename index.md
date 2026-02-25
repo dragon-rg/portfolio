@@ -38,6 +38,11 @@ Hi! My name is Rigved Reddy Gaddam
             Snake Game
         </div>
     </a>
+    <a href="{{site.baseurl}}/tools/journey" style="text-decoration: none;">
+        <div style="background-color: #7123ed; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Tools Journey blog
+        </div>
+    </a>
     <a href="{{site.baseurl}}/natm" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Night at The Museum blog
